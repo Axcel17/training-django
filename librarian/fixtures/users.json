@@ -1,0 +1,38 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$9pwx6IwZmYSRobR1QT2ElF$ZkAVMYSg/0IVOL5AlPXt81kZntvY+f8cg5S1GkYgWmk=",
+      "last_login": "2021-09-16T21:28:40.864Z",
+      "is_superuser": true,
+      "username": "superduper",
+      "first_name": "",
+      "last_name": "",
+      "email": "jplaza@datil.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2021-09-16T21:27:59.772Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$9pwx6IwZmYSRobR1QT2ElF$ZkAVMYSg/0IVOL5AlPXt81kZntvY+f8cg5S1GkYgWmk=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "juanita",
+      "first_name": "Juanita",
+      "last_name": "Jones",
+      "email": "jjones@university.edu.ec",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2021-09-16T21:29:49Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]

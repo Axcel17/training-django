@@ -1,0 +1,47 @@
+<div>
+  <div class="flow-root mt-6">
+    <ul role="list" class="-my-5 divide-y divide-gray-200">
+      {% for book in library %}
+      <li class="py-4">
+        <div class="flex items-center space-x-4">
+          <div class="flex-1 min-w-0">
+            <p class="text-md font-medium text-gray-900 truncate pb-2">
+              {{ book.title }} - {{ book.authors }}
+              {% if book.is_lent_to_user %}
+              <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-blue-100 text-blue-800">
+                Already lent
+              </span>
+              {% endif %}
+            {% if book.is_in_user_basket %}
+            <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-blue-100 text-blue-800">In basket</span>
+            {% endif %}
+            </p>
+            <p class="text-sm text-gray-500 overflow-ellipsis overflow-hidden">
+              {{ book.description|linebreaksbr }}
+            </p>
+            <div class="flex">
+              <div class="flex-1">
+                <p class="text-sm text-gray-600 mt-4">Cantidad disponible: {{ book.available_quantity }}</p>
+              </div>
+            </div>
+          </div>
+          <div>
+            <form action="{% url 'add-to-basket' book.isbn %}" method="post">
+              {% csrf_token %}
+              {% if book.can_be_lent_to_user %}
+              <button class="disabled:text-gray-300 inline-flex items-center shadow-sm px-2.5 py-0.5 border border-gray-300 text-sm leading-5 font-medium rounded-full text-gray-700 bg-white hover:bg-gray-50">
+                Reserve
+              </button>
+              {% else %}
+              <span class="inline-flex items-center shadow-sm px-2.5 py-0.5 border border-gray-200 text-sm leading-5 font-medium rounded-full text-gray-400 bg-white hover:bg-gray-50">
+                Reserve
+              </span>
+              {% endif %}
+            </form>
+          </div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,123 @@
+[
+{
+  "model": "librarian.book",
+  "pk": 60883286,
+  "fields": {
+    "title": "One Hundred Years of Solitude",
+    "description": "One Hundred Years of Solitude tells the story of the rise and fall, birth and death of the mythical town of Macondo through the history of the Buendía family. Inventive, amusing, magnetic, sad, and alive with unforgettable men and women -- brimming with truth, compassion, and a lyrical magic that strikes the soul -- this novel is a masterpiece in the art of fiction.",
+    "authors": [
+      4
+    ]
+  }
+},
+{
+  "model": "librarian.book",
+  "pk": 9780142437230,
+  "fields": {
+    "title": "Don Quixote",
+    "description": "Don Quixote has become so entranced reading tales of chivalry that he decides to turn knight errant himself. In the company of his faithful squire, Sancho Panza, these exploits blossom in all sorts of wonderful ways. While Quixote's fancy often leads him astray—he tilts at windmills, imagining them to be giants—Sancho acquires cunning and a certain sagacity. Sane madman and wise fool, they roam the world together-and together they have haunted readers' imaginations for nearly four hundred years.",
+    "authors": [
+      3
+    ]
+  }
+},
+{
+  "model": "librarian.book",
+  "pk": 9780142437964,
+  "fields": {
+    "title": "wann's Way: In Search of Lost Time, Vol. 1",
+    "description": "Marcel Proust’s In Search of Lost Time is one of the most entertaining reading experiences in any language and arguably the finest novel of the twentieth century. But since its original prewar translation there has been no completely new version in English. Now, Penguin Classics brings Proust’s masterpiece to new audiences throughout the world, beginning with Lydia Davis’s internationally acclaimed translation of the first volume, Swann’s Way.",
+    "authors": [
+      11
+    ]
+  }
+},
+{
+  "model": "librarian.book",
+  "pk": 9780393089059,
+  "fields": {
+    "title": "The Odyssey",
+    "description": "A lean, fleet-footed translation that recaptures Homer’s “nimble gallop” and brings an ancient epic to new life.\r\n\r\nThe first great adventure story in the Western canon, The Odyssey is a poem about violence and the aftermath of war; about wealth, poverty, and power; about marriage and family; about travelers, hospitality, and the yearning for home.\r\n\r\nIn this fresh, authoritative version―the first English translation of The Odyssey by a woman―this stirring tale of shipwrecks, monsters, and magic comes alive in an entirely new way. Written in iambic pentameter verse and a vivid, contemporary idiom, this engrossing translation matches the number of lines in the Greek original, thus striding at Homer’s sprightly pace and singing with a voice that echoes Homer’s music.",
+    "authors": [
+      7
+    ]
+  }
+},
+{
+  "model": "librarian.book",
+  "pk": 9780553213393,
+  "fields": {
+    "title": "The Divine Comedy",
+    "description": "In this superb translation with an introduction and commentary by Allen Mandelbaum, all of Dante's vivid images--the earthly, sublime, intellectual, demonic, ecstatic--are rendered with marvelous clarity to read like the words of a poet born in our own age.",
+    "authors": [
+      9
+    ]
+  }
+},
+{
+  "model": "librarian.book",
+  "pk": 9780679736363,
+  "fields": {
+    "title": "Madame Bovary",
+    "description": "For daring to peer into the heart of an adulteress and enumerate its contents with profound dispassion, the author of Madame Bovary was tried for \"offenses against morality and religion.\" What shocks us today about Flaubert's devastatingly realized tale of a young woman destroyed by the reckless pursuit of her romantic dreams is its pure artistry: the poise of its narrative structure, the opulence of its prose (marvelously captured in the English translation of Francis Steegmuller), and its creation of a world whose minor figures are as vital as its doomed heroine. In reading Madame Bovary, one experiences a work that remains genuinely revolutionary almost a century and a half after its creation.",
+    "authors": [
+      8
+    ]
+  }
+},
+{
+  "model": "librarian.book",
+  "pk": 9780743273565,
+  "fields": {
+    "title": "The Great Gatsby",
+    "description": "James Dickey Now we have an American masterpiece in its final form: the original crystal has shaped itself into the true diamond. This is the novel as Fitzgerald wished it to be, and so it is what we have dreamed of, sleeping and waking",
+    "authors": [
+      12
+    ]
+  }
+},
+{
+  "model": "librarian.book",
+  "pk": 9780743477123,
+  "fields": {
+    "title": "Hamlet",
+    "description": "Hamlet is Shakespeare's most popular, and most puzzling, play. It follows the form of a \"revenge tragedy,\" in which the hero, Hamlet, seeks vengeance against his father's murderer, his uncle Claudius, now the king of Denmark. Much of its fascination, however, lies in its uncertainties.",
+    "authors": [
+      6
+    ]
+  }
+},
+{
+  "model": "librarian.book",
+  "pk": 9781400079988,
+  "fields": {
+    "title": "War and Peace",
+    "description": "War and Peace broadly focuses on Napoleon’s invasion of Russia in 1812 and follows three of the most well-known characters in literature: Pierre Bezukhov, the illegitimate son of a count who is fighting for his inheritance and yearning for spiritual fulfillment; Prince Andrei Bolkonsky, who leaves his family behind to fight in the war against Napoleon; and Natasha Rostov, the beautiful young daughter of a nobleman who intrigues both men.",
+    "authors": [
+      1
+    ]
+  }
+},
+{
+  "model": "librarian.book",
+  "pk": 9781840226355,
+  "fields": {
+    "title": "Ulysses",
+    "description": "Ulysses by James Joyce COMPLETE AND UNABRIDGED. With a new Introduction by Cedric Watts, Research Professor of English, University of Sussex. James Joyces astonishing masterpiece, Ulysses, tells of the diverse events which befall Leopold Bloom and Stephen Dedalus in Dublin on 16 June 1904, during which Blooms voluptuous wife, Molly, commits adultery. Initially deemed obscene in England and the USA, this richly-allusive novel, revolutionary in its Modernistic experimentalism, was hailed as a work of genius by W. B. Yeats, T. S. Eliot and Ernes",
+    "authors": [
+      2
+    ]
+  }
+},
+{
+  "model": "librarian.book",
+  "pk": 9781853260087,
+  "fields": {
+    "title": "Moby Dick",
+    "description": "Moby Dick is the story of Captain Ahab's quest to avenge the whale that 'reaped' his leg. The quest is an obsession and the novel is a diabolical study of how a man becomes a fanatic. But it is also a hymn to democracy. Bent as the crew is on Ahab s appalling crusade, it is equally the image of a co-operative community at work: all hands dependent on all hands, each individual responsible for the security of each. Among the crew is Ishmael, the novel's narrator, ordinary sailor, and extraordinary reader. Digressive, allusive, vulgar, transcendent, the story Ishmael tells is",
+    "authors": [
+      5
+    ]
+  }
+}
+]

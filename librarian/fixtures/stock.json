@@ -1,0 +1,90 @@
+[
+  {
+    "model": "librarian.stock",
+    "pk": 1,
+    "fields": {
+      "item": 9780142437230,
+      "quantity": 10
+    }
+  },
+  {
+    "model": "librarian.stock",
+    "pk": 2,
+    "fields": {
+      "item": 9780142437964,
+      "quantity": 2
+    }
+  },
+  {
+    "model": "librarian.stock",
+    "pk": 3,
+    "fields": {
+      "item": 9780393089059,
+      "quantity": 5
+    }
+  },
+  {
+    "model": "librarian.stock",
+    "pk": 4,
+    "fields": {
+      "item": 9780553213393,
+      "quantity": 1
+    }
+  },
+  {
+    "model": "librarian.stock",
+    "pk": 5,
+    "fields": {
+      "item": 9780679736363,
+      "quantity": 7
+    }
+  },
+  {
+    "model": "librarian.stock",
+    "pk": 6,
+    "fields": {
+      "item": 9780743273565,
+      "quantity": 3
+    }
+  },
+  {
+    "model": "librarian.stock",
+    "pk": 7,
+    "fields": {
+      "item": 9780743477123,
+      "quantity": 12
+    }
+  },
+  {
+    "model": "librarian.stock",
+    "pk": 8,
+    "fields": {
+      "item": 9781400079988,
+      "quantity": 0
+    }
+  },
+  {
+    "model": "librarian.stock",
+    "pk": 9,
+    "fields": {
+      "item": 9781840226355,
+      "quantity": 0
+    }
+  },
+  {
+    "model": "librarian.stock",
+    "pk": 10,
+    "fields": {
+      "item": 9781853260087,
+      "quantity": 4
+    }
+  },
+  {
+    "model": "librarian.stock",
+    "pk": 11,
+    "fields": {
+      "item": 60883286,
+      "quantity": 2
+    }
+  }
+]

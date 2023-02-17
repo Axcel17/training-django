@@ -1,0 +1,21 @@
+[
+  {
+    "model": "librarian.loan",
+    "pk": 1,
+    "fields": {
+      "user": ["juanita"],
+      "status": "basket",
+      "created_at": "2021-09-16T21:29:49Z",
+      "max_return_date": "2021-10-15T21:29:49Z"
+    }
+  },
+  {
+    "model": "librarian.loanlineitem",
+    "pk": 1,
+    "fields": {
+      "loan": 1,
+      "book": 60883286,
+      "quantity": 1
+    }
+  }
+]

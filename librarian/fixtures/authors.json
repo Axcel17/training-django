@@ -1,0 +1,98 @@
+[
+  {
+    "model": "librarian.author",
+    "pk": 1,
+    "fields": {
+      "first_name": "Leo",
+      "last_name": "Tolstoy"
+    }
+  },
+  {
+    "model": "librarian.author",
+    "pk": 2,
+    "fields": {
+      "first_name": "James",
+      "last_name": "Joyce"
+    }
+  },
+  {
+    "model": "librarian.author",
+    "pk": 3,
+    "fields": {
+      "first_name": "Miguel",
+      "last_name": "de Cervantes"
+    }
+  },
+  {
+    "model": "librarian.author",
+    "pk": 4,
+    "fields": {
+      "first_name": "Gabriel",
+      "last_name": "García Márquez"
+    }
+  },
+  {
+    "model": "librarian.author",
+    "pk": 5,
+    "fields": {
+      "first_name": "Herman",
+      "last_name": "Melville"
+    }
+  },
+  {
+    "model": "librarian.author",
+    "pk": 6,
+    "fields": {
+      "first_name": "William",
+      "last_name": "Shakespeare"
+    }
+  },
+  {
+    "model": "librarian.author",
+    "pk": 7,
+    "fields": {
+      "first_name": "Homer",
+      "last_name": "Homer"
+    }
+  },
+  {
+    "model": "librarian.author",
+    "pk": 8,
+    "fields": {
+      "first_name": "Gustave",
+      "last_name": "Flaubert"
+    }
+  },
+  {
+    "model": "librarian.author",
+    "pk": 9,
+    "fields": {
+      "first_name": "Dante",
+      "last_name": "Alighieri"
+    }
+  },
+  {
+    "model": "librarian.author",
+    "pk": 10,
+    "fields": {
+      "first_name": "Fyodor",
+      "last_name": "Dostoyevsky"
+    }
+  },
+  {
+    "model": "librarian.author",
+    "pk": 11,
+    "fields": {
+      "first_name": "Marcel",
+      "last_name": "Proust"
+    }
+  },
+  {
+    "model": "librarian.author",
+    "pk": 12,
+    "fields": {
+      "first_name": "F.",
+      "last_name": "Scott Fitzgerald"
+    }
+  }
+]
